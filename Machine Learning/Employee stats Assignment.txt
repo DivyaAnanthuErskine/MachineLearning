@@ -1,0 +1,23 @@
+A company works with number of employees all the works are dependant on the employees. Even if one of the employees resigned the job immediately then assigned work need not be finished on time,so delivery of the projects to the clients will be delayed. Company planned to make a solution for this they want to know which employee may resign this month or next. If they know previously they can arrange some alternatives to avoid such a problem. As an AI Engineer - You must give a solution to this 
+A)How will you acheive this with AI?
+With AI we need to develop a brain which able to get about employees resignation status that gives solution for this issue 
+
+B)Three stage of problem identification
+
+  1) we should have the data set for the employees from the company - with their names,details such as id, name etc.., as INPUT
+  2) prediction - call to action here is we need to know who is resign or not? if yes when ? the data will be useful for the company
+       Resign - when?  Not resign - no issuues
+  3) Resigning it shows date which indicates Time series analysis 
+     resignation stats indicates classification and also thats acts as output here so I guess this is TSA - supervised - classification
+	 
+C) Name the project ---  Employee Resignation Identification
+
+D) Create a Dummy Dataset
+
+Employee details such as ID, name -->INPUT
+Resignation status  --> Yes/No  --> Output
+Name Employee ID Resignation status
+tom    5252         yes
+jak    5263          no
+  
+   
