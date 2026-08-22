@@ -1,0 +1,46 @@
+Confusion_Matrix
+
+RF
+
+1.What is the correct classification(accuracy) of purchased in the given dataset?
+0.90
+2. In the given dataset the purchased value is predicted correctly as expected as purchased in the total set(Recall)?
+0.88
+3.In the given dataset the purchased value is predicted as purchased in the total dataset(Precision)?
+0.86
+4. what is the overall performance of purchased value in the given dataset?(F1 Score)
+0.87
+5. What is the average performance of Precision/Recall/F1-measure?
+0.89/0.90/0.90
+6. What is the sum of product of proportion rate(weight) of each class?
+0.90
+
+Decision tree:
+
+1.What is the correct classification(accuracy) of purchased in the given dataset?
+0.87
+2. In the given dataset the purchased value is predicted correctly as expected as purchased in the total set(Recall)?
+0.84
+3.In the given dataset the purchased value is predicted as purchased in the total dataset(Precision)?
+0.82
+4. what is the overall performance of purchased value in the given dataset?(F1 Score)
+0.83
+5. What is the average performance of Precision/Recall/F1-measure?
+0.86/0.87/0.86
+6. What is the sum of product of proportion rate(weight) of each class?
+0.87
+
+SVM
+
+1.What is the correct classification(accuracy) of purchased in the given dataset?
+0.78
+2. In the given dataset the purchased value is predicted correctly as expected as purchased in the total set(Recall)?
+0.47
+3.In the given dataset the purchased value is predicted as purchased in the total dataset(Precision)?
+0.88
+4. what is the overall performance of purchased value in the given dataset?(F1 Score)
+0.61
+5. Wh8at is the average performance of Precision/Recall/F1-measure?
+0.82/0.72/0.73
+6. What is the sum of product of proportion rate(weight) of each class?
+0.81/0.78/0.76
